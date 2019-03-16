@@ -1,0 +1,57 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Y+uHjKmEbNsYWIoNCedtUB3daIY=",
+			"path": "github.com/gxed/hashland/keccakpg",
+			"revision": "a72cc0875a1e95edd309d3134bc7c11bf2d7360b",
+			"revisionTime": "2019-02-19T10:43:48Z"
+		},
+		{
+			"checksumSHA1": "gb/llZpNhsLWkFwlFPTF9yZJUMA=",
+			"path": "github.com/gxed/hashland/murmur3",
+			"revision": "a72cc0875a1e95edd309d3134bc7c11bf2d7360b",
+			"revisionTime": "2019-02-19T10:43:48Z"
+		},
+		{
+			"checksumSHA1": "mJQtsTCZGhCmjdFtXBWryZSri/o=",
+			"path": "github.com/minio/blake2b-simd",
+			"revision": "3f5f724cb5b182a5c278d6d3d55b40e7f8c2efb4",
+			"revisionTime": "2016-07-23T06:10:19Z"
+		},
+		{
+			"checksumSHA1": "tFP2txVVKFxMKtwUGPui8a1EobE=",
+			"path": "github.com/minio/sha256-simd",
+			"revision": "2d45a736cd16732fe6a57563cc20d8b035193e58",
+			"revisionTime": "2019-01-31T02:09:04Z"
+		},
+		{
+			"checksumSHA1": "EsER+f+hvVc2mWkpxaxrfYo1QoA=",
+			"path": "github.com/mr-tron/base58/base58",
+			"revision": "6598572f05537592acb5a609ff53c4c7fbba7a3e",
+			"revisionTime": "2019-03-15T20:45:14Z"
+		},
+		{
+			"checksumSHA1": "rvmCaKqTuTpK3a79VPoGXxbARRo=",
+			"path": "github.com/multiformats/go-multiaddr",
+			"revision": "ce21123d5172669bbf37a166078bc5f9d345ec2f",
+			"revisionTime": "2019-02-27T13:10:35Z"
+		},
+		{
+			"checksumSHA1": "DmVIXklDBvZo6SiXwr7iYUdRHso=",
+			"path": "github.com/multiformats/go-multihash",
+			"revision": "1a04c485626b992b36afcaa599584fdb0770c397",
+			"revisionTime": "2019-02-26T17:49:41Z"
+		},
+		{
+			"path": "golang.org/x/crypto/blake2s",
+			"revision": ""
+		},
+		{
+			"path": "golang.org/x/crypto/sha3",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/czh0526/multiformats"
+}
