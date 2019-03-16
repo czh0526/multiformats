@@ -39,6 +39,18 @@
 			"revisionTime": "2019-02-27T13:10:35Z"
 		},
 		{
+			"checksumSHA1": "CrsKWuykGMx27yJQZbEA42LPvx4=",
+			"path": "github.com/multiformats/go-multiaddr-dns",
+			"revision": "25bd1ef04b2908f182226bff33da5057f3ae306e",
+			"revisionTime": "2019-02-27T17:09:53Z"
+		},
+		{
+			"checksumSHA1": "0TbCh+yKnTlenU60XbHieKgjnGo=",
+			"path": "github.com/multiformats/go-multiaddr-net",
+			"revision": "bd61b0499a3cfc893a8eb109c5669342b1671881",
+			"revisionTime": "2019-02-27T12:29:21Z"
+		},
+		{
 			"checksumSHA1": "DmVIXklDBvZo6SiXwr7iYUdRHso=",
 			"path": "github.com/multiformats/go-multihash",
 			"revision": "1a04c485626b992b36afcaa599584fdb0770c397",
